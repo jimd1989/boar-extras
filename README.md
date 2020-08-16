@@ -1,6 +1,6 @@
 # boar-extras
 
-Some extra programs to make using [boar](https://github.com/jimd1989/boar) and [boar-midi](https://github.com/boar-midi) easier.
+Some extra programs to make using [boar](https://github.com/jimd1989/boar) and [boar-midi](https://github.com/jimd1989/boar-midi) easier.
 
 ## Build
 
