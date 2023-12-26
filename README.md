@@ -45,6 +45,7 @@ Syntax available in `notes`:
 - `mj` and `mn` chord functions for use against a single note. Also `mj7` and `mn7`. Create more in the source code using these as templates.
 - An `arp` function to break a chord into individual note events. You most likely want to flatten it with `,@`.
 - Rests can be represented with `∅` or the normal empty list `'()`.
+- Arbitrary strings (for non-note patch control) can be inserted into a sublist.
 
 For example:
 
